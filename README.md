@@ -1,1 +1,3 @@
 # CCC_A2
+## Uploading whole code solution soon......
+<img width="1440" height="812" alt="Screenshot 2025-07-12 at 7 58 08 PM" src="https://github.com/user-attachments/assets/93c63748-ee5b-4697-b7d6-fca3df1da410" />
